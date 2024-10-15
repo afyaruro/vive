@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "480849605545",
+    "project_id": "vive2-8e49c",
+    "storage_bucket": "vive2-8e49c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480849605545:android:f2954fd9f44010af8f8ab8",
+        "android_client_info": {
+          "package_name": "com.lessyngthon.vive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2u8OD2zO6Tnw-CgCHv3sMdZK5XQAY_UI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
